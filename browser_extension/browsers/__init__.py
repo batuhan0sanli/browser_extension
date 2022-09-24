@@ -1,0 +1,1 @@
+from browser_extension.browsers.chrome import ChromeExtension

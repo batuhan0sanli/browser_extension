@@ -1,7 +1,7 @@
 import os
 
 from dotenv import load_dotenv
-from src.core.constants import HOME_ROOT_PATH
+from browser_extension.core.constants import HOME_ROOT_PATH
 
 
 def str2bool(value):
